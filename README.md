@@ -1,6 +1,6 @@
 <h2 align="center">
-  Rahul Jha | Portfolio Website<br/>
-  <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
+ M Affan Butt | Portfolio Website<br/>
+  <a href="affans-portfolio.netlify.app" target="_blank">My Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
