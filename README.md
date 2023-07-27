@@ -3,7 +3,7 @@
   <a href="affans-portfolio.netlify.app" target="_blank">My Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme_img.png" />
+<!--   <img alt="Demo" src="./Images/" /> -->
 </div>
 
 <br/>
