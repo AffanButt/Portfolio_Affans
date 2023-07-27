@@ -17,7 +17,7 @@ Thanks in Advance😍!
 
 ## Built With
 
-My personal portfolio website <a href="affans-portfolio.netlify.app" target="_blank">rahuljha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="[affans-portfolio.netlify.app](https://official-affans-portfolio.vercel.app/)" target="_blank">Portfolio_Affan</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
